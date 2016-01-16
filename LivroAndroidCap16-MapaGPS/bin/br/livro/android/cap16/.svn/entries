@@ -1,0 +1,88 @@
+8
+
+dir
+94
+https://livroandroid.googlecode.com/svn/trunk/LivroAndroidCap16-MapaGPS/src/br/livro/android/cap16
+https://livroandroid.googlecode.com/svn
+
+
+
+2009-11-04T19:31:25.239779Z
+94
+rlecheta
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+444d9c3a-4ea5-11de-84bb-6bba061bd1d3
+
+Coordenada.java
+file
+
+
+
+
+2009-11-16T22:18:12.640625Z
+eaee43b17c4ef7c8c781bd221b7df88b
+2009-11-04T18:52:22.616631Z
+92
+rlecheta
+
+CoordenadaSete.java
+file
+
+
+
+
+2009-11-16T22:18:12.640625Z
+545efdf12c203fb5931aa4efa412dee1
+2009-11-04T19:31:25.239779Z
+94
+rlecheta
+
+overlay
+dir
+
+Menu.java
+file
+
+
+
+
+2009-11-16T22:18:12.640625Z
+7a1ef336945a0fa39163d52025ae7f59
+2009-11-04T18:52:22.616631Z
+92
+rlecheta
+
+Endereco.java
+file
+
+
+
+
+2009-11-16T22:18:12.640625Z
+94eb9ddb9fdf91de8c48bd7e430453bb
+2009-11-04T18:55:14.914575Z
+93
+rlecheta
+
+rota
+dir
+
+mapview
+dir
+
+gps
+dir
+

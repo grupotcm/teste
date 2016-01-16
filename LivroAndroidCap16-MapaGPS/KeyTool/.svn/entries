@@ -1,0 +1,80 @@
+8
+
+dir
+94
+https://livroandroid.googlecode.com/svn/trunk/LivroAndroidCap16-MapaGPS/KeyTool
+https://livroandroid.googlecode.com/svn
+
+
+
+2009-06-02T00:28:45.222746Z
+51
+rlecheta
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+444d9c3a-4ea5-11de-84bb-6bba061bd1d3
+
+key.htm
+file
+
+
+
+
+2009-11-16T22:18:11.578125Z
+3e4de235a394aa0e632a651cc303358b
+2009-06-02T00:28:45.222746Z
+51
+rlecheta
+
+keystore.txt
+file
+
+
+
+
+2009-11-16T22:18:11.578125Z
+0a1a61334f4d4ba71c59762acaf61d38
+2009-06-02T00:28:45.222746Z
+51
+rlecheta
+
+debug.keystore.txt
+file
+
+
+
+
+2009-11-16T22:18:11.578125Z
+8fd400f87fcc7e4065479b42f3c39f40
+2009-06-02T00:28:45.222746Z
+51
+rlecheta
+
+key_files
+dir
+
+debug.keystore
+file
+
+
+
+
+2009-11-16T22:18:11.578125Z
+bc6f601634baa2213a1cb72a8cd2b6d2
+2009-06-02T00:28:45.222746Z
+51
+rlecheta
+has-props
+

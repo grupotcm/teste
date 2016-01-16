@@ -1,0 +1,103 @@
+8
+
+dir
+94
+https://livroandroid.googlecode.com/svn/trunk/LivroAndroidCap16-MapaGPS
+https://livroandroid.googlecode.com/svn
+
+
+
+2009-11-04T19:31:25.239779Z
+94
+rlecheta
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+444d9c3a-4ea5-11de-84bb-6bba061bd1d3
+
+default.properties
+file
+
+
+
+
+2009-11-16T22:18:13.625000Z
+78d8af80c2fcb8f64520c1b78500db25
+2009-11-04T18:52:22.616631Z
+92
+rlecheta
+
+.classpath
+file
+
+
+
+
+2009-11-16T22:18:13.625000Z
+a9e2ac9e2df0ce5f9b7062eb4458f3e0
+2009-06-02T00:28:45.222746Z
+51
+rlecheta
+
+keystore.txt
+file
+
+
+
+
+2009-11-16T22:18:13.625000Z
+7195b1571144b281ccb54f0b8bf80cd7
+2009-06-02T00:28:45.222746Z
+51
+rlecheta
+
+.project
+file
+
+
+
+
+2009-11-16T22:18:13.640625Z
+c29681f49acaeb52a190f0930afe17d7
+2009-06-02T00:28:45.222746Z
+51
+rlecheta
+
+KeyTool
+dir
+
+AndroidManifest.xml
+file
+
+
+
+
+2009-11-16T22:18:13.640625Z
+5f76d18ad30c56ab952cf559db156bbc
+2009-11-04T19:31:25.239779Z
+94
+rlecheta
+
+src
+dir
+
+bin
+dir
+
+GPS
+dir
+
+res
+dir
+

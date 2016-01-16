@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/92/trunk/LivroAndroidCap16-MapaGPS/src/br/livro/android/cap16/gps
+END
+LocationProviderList.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/51/trunk/LivroAndroidCap16-MapaGPS/src/br/livro/android/cap16/gps/LocationProviderList.java
+END
+Menu.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/89/trunk/LivroAndroidCap16-MapaGPS/src/br/livro/android/cap16/gps/Menu.java
+END
+ExemploAndandoRuaMyLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/92/trunk/LivroAndroidCap16-MapaGPS/src/br/livro/android/cap16/gps/ExemploAndandoRuaMyLocation.java
+END
+LogaCoordenadas.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/51/trunk/LivroAndroidCap16-MapaGPS/src/br/livro/android/cap16/gps/LogaCoordenadas.java
+END
+ExemploAndandoRua.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/92/trunk/LivroAndroidCap16-MapaGPS/src/br/livro/android/cap16/gps/ExemploAndandoRua.java
+END
+ExemploAndandoRuaFake.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/92/trunk/LivroAndroidCap16-MapaGPS/src/br/livro/android/cap16/gps/ExemploAndandoRuaFake.java
+END
